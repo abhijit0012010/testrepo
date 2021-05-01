@@ -3,3 +3,6 @@
 ################################################################################
 
 /NewTestApp/.vs/NewTestApp/v16
+/NewTestApp/NewTestApp/bin/Debug/netcoreapp3.1
+/NewTestApp/NewTestApp/obj
+/.vs
